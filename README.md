@@ -37,7 +37,7 @@ I like building weird things, am always trying to stay ahead of the curve in ter
 ![](https://github-readme-stats.vercel.app/api?username=yitzshapiro&show_icons=true&theme=radical)
 
 ## 🎵 When I'm Not Coding...
-You can find me improvising some jazz pinao, or grappling on the mats. Music and martial arts are my two main hobby-babies.
+You can find me improvising some jazz or latin piano, or grappling on the mats. Music and martial arts are my two main hobby-babies.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yitzchak-shapiro)
